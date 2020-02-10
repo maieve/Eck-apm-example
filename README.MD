@@ -1,4 +1,4 @@
-# Elastic-Cloud Apm Sample Project
+# Elastic-Cloud Apm Agent Sample Project
 
 - openjdk 11
 - gradle 5.2.1
